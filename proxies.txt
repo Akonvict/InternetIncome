@@ -1,1 +1,12 @@
-#Add your proxies below in each line in the format protocol://username:password@ip:port or protocol://ip:port
+http://173.255.119.18:80
+http://209.141.58.24:80
+http://45.95.203.201:4444
+http://12.186.205.120:80
+http://51.158.104.187:80
+http://159.54.149.67:80
+http://91.189.177.186:3128
+http://45.9.75.76:4444
+http://185.232.169.108:4444
+http://152.67.9.179:8100
+http://12.186.205.122:80
+http://72.10.164.178:27485
